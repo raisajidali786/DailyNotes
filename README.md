@@ -18,5 +18,3 @@ Daily Notes is an Android Application developed using Kotlin.
 
 # Delete Warning Screen
 ![Delete Warning Screen](https://user-images.githubusercontent.com/79716161/182021105-ba93d79f-28d4-4b6f-97e2-dd53c4584d3b.jpeg)
-
-# CREATED BY Rai Sajid Ali
