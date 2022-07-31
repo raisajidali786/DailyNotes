@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Notes</string>
+
+    <string name="notes_title">Today Task</string>
+    <string name="notes_description">I have to go at barber shop for my hair cut</string>
+    <string name="todo">TODO</string>
+    <string name="empty_list">Empty List</string>
+    <string name="create_first_note">Create First Note</string>
+</resources>
